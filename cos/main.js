@@ -1,0 +1,7 @@
+const name=document.querySelector(`#name`)
+const time=document.querySelector(`#time`)
+const set=document.querySelector(`#set`)
+const isCoffee=document.querySelector(`#isCoffee`)
+const coffeeSize=document.querySelector(`[name="coffeeSize"]:checked`)
+const isDessert=document.querySelector(`#isDessert`)
+const dessertType=document.querySelector(`[name="dessertType"]:checked`)
